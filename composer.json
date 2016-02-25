@@ -1,5 +1,5 @@
 {
-    "name": "am2studio/laravel-seo-meta",
+    "name": "lostcause/laravel-seo-meta",
     "type": "library",
     "description": "Laravel seo meta",
     "keywords": [
@@ -14,11 +14,15 @@
             "email": "filip.horvat@am2studio.hr",
             "homepage": "http://am2studio.hr",
             "role": "Developer"
+        },
+        {
+            "name": "Al",
+            "role": "Forker :)"
         }
     ],
     "require": {
         "php" : ">=5.4.0",
-        "laravel/framework": "5.2.*"
+        "laravel/framework": "5.0.*"
     },
     "require-dev": {
 
